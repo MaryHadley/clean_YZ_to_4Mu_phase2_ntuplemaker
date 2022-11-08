@@ -11,7 +11,8 @@ cd ..
 rm -rf clean_YZ_to_4Mu_phase2_ntuplemaker  
 cmsenv
 
-#To run Y+Z-->4 Mu code
-root -l -b
-.L 
+#To run Y+Z-->4 Mu code  
+root -l -b  
+.L new_workInProgress_clean_flexible_loop_ZplusY.C++   
+run("< fileName.root >")   
 
