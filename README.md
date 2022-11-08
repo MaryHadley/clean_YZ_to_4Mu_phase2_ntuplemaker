@@ -1,4 +1,4 @@
-# clean_phase2_ntuplemaker
+# clean_YZ_to_4Mu_phase2_ntuplemaker
 
 mkdir < workArea >    
 cd < workArea >  
